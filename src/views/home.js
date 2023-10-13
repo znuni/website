@@ -358,9 +358,7 @@ const Home = (props) => {
           <span className="home-text40">The corridor. In your pocket.</span>
           <div className="home-divider2"></div>
           <span className="home-text41">
-            <span className="Body2">© 2023 zn</span>
-            <span className="Body2">ü</span>
-            <span className="Body2">ni club. All rights reserved.</span>
+            <span className="Body2">© 2023 znüni club. All rights reserved.</span>
             <br></br>
           </span>
           <div className="home-container25">

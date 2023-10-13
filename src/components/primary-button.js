@@ -7,7 +7,7 @@ import './primary-button.css'
 const PrimaryButton = (props) => {
   return (
     <div className={`primary-button-container ${props.rootClassName} `}>
-      <button className="primary-button-button MediumLabel button">
+      <button className="primary-button-button MediumLabel button" onclick="location.href='https:/\/forms.gle/R26usGi1E1jB9C4k9';">
         {props.button}
       </button>
     </div>
